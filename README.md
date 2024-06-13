@@ -1,5 +1,6 @@
 # DAY-1
 Candies - Greedy Algorithm
+
 Prolem Statement
 Each student has ratings
 - To distribute minimum of 1 candy to each student
